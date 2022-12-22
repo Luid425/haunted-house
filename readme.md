@@ -1,5 +1,7 @@
 # Haunted-House
 
+![My Image](static/haunted-house.png)
+
 Haunted house environment generated in 3D with threejs library.
 
 ## Setup
